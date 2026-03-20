@@ -1,0 +1,5 @@
+{
+  "name": "ClinicalCase AI - Synthetic Patient Generator",
+  "description": "Generate richly detailed, realistic synthetic patient cases for medical education and training using Gemini AI.",
+  "requestFramePermissions": []
+}
